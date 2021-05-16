@@ -2,7 +2,7 @@
 import pandas as pd
 import numpy as np
 # %%
-data = pd.read_csv('C:/Users/harpreet sausan/Desktop/movie_recommendation/Movie_Recommendation-main/movie_metadata.csv')
+data = pd.read_csv('movie_metadata.csv')
 # %%
 data.head(10)
 # %%
