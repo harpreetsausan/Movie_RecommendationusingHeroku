@@ -3,11 +3,11 @@ import numpy as np
 import pandas as pd
 
 # %%
-credits = pd.read_csv('C:/Users/harpreet sausan/Desktop/movie_recommendation/Movie_Recommendation-main/credits.csv')
+credits = pd.read_csv('credits.csv')
 # %%
 credits
 # %%
-meta = pd.read_csv('C:/Users/harpreet sausan/Desktop/movie_recommendation/Movie_Recommendation-main/movies_metadata.csv')
+meta = pd.read_csv('movies_metadata.csv')
 # %%
 meta
 
